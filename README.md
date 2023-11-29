@@ -2,10 +2,6 @@
 
 Este é um projeto simples chamado "Price Cards" criado por Leonardo Moreno. O objetivo deste projeto é fornecer uma página básica com tabelas de preços para diferentes planos de serviço.
 
--> Demonstração
-
-Inclua imagens ou links para demonstrar como a página de tabelas de preços aparece.
-
 -> Tecnologias Utilizadas
 
 - HTML
@@ -13,9 +9,8 @@ Inclua imagens ou links para demonstrar como a página de tabelas de preços apa
 
 -> Instruções de Instalação
 
-1. Clone o repositório: `git clone https://github.com/seu-username/price-cards.git`
-2. Navegue até o diretório: `cd price-cards`
-3. Abra o arquivo `index.html` no seu navegador.
+1. Clone o repositório: `git clone https://github.com/Leonard0Dev/Price-cards.git`
+2. Abra o arquivo `index.html` no seu navegador.
 
 -> Contribuição
 
